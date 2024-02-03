@@ -75,6 +75,12 @@
                 "guid": "{0caa0dad-35be-5f56-a8ff-afceeeaa6101}",
                 "hidden": true,
                 "name": "Command Prompt"
+            },
+            {
+                "guid": "{58ad8b0c-3ef8-5f4d-bc6f-13e4c00f2530}",
+                "hidden": true,
+                "name": "Debian",
+                "source": "Windows.Terminal.Wsl"
             }
         ]
     },
